@@ -7,9 +7,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguees&layout=compact" alt="feliperodriguees" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=feliperodriguees&show_icons=true" alt="feliperodriguees" /></p></br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=feliperodriguees&show_icons=true" alt="feliperodriguees" /></p>
 
+<div>
 <p align="center">
 <a href="https://linkedin.com/in/feliperodrigues-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="feliperodrigues-" height="30" width="30" /></a>
 <a href="https://instagram.com/f3liper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="f3liper" height="30" width="30" /></a>
 </p>
+</div>
