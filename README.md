@@ -5,10 +5,10 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznonato&layout=compact&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguees&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=beatriznonato&show_icons=true&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=feliperodriguees&show_icons=true&theme=react'>
     </td>
   </row>
 </table> 
