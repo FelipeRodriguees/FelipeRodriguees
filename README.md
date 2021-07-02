@@ -11,5 +11,3 @@
     </td>
   </row>
 </table>
-
-![Snake animation](https://github.com/FelipeRodriguees/FelipeRodriguees/blob/output/github-contribution-grid-snake.svg)
