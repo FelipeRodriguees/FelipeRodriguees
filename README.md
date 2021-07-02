@@ -4,7 +4,12 @@
 <table align="center">
   <row>
     <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=feliperodriguees&layout=compact&theme=react'>
+    </td>
+    <td>
       <img height='172' src='https://github-readme-stats.vercel.app/api?username=feliperodriguees&show_icons=true&theme=react'>
     </td>
   </row>
-</table> 
+</table>
+
+![Snake animation](https://github.com/FelipeRodriguees/FelipeRodriguees/blob/output/github-contribution-grid-snake.svg)
